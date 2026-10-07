@@ -2,7 +2,7 @@
 
 This repository holds the README and the file list. The source files themselves are attached to the release (they are too large for the repository):
 
-**Release page:** [SOURCE ADDRESS TO BE INSERTED WHEN THE RELEASE EXISTS]
+**Release page:** [https://github.com/tricksterdude/streamgaffer-third-party-source/releases/tag/ffprobe-n9.0.2-20261006](https://github.com/tricksterdude/streamgaffer-third-party-source/releases/tag/ffprobe-n9.0.2-20261006)
 
 It is the corresponding source for the FFmpeg `ffprobe` program and the FFmpeg shared libraries that are distributed with the StreamGaffer Windows installer. It contains no StreamGaffer program code.
 
